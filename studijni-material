@@ -1,0 +1,34 @@
+Dockerfile
+1. https://docs.docker.com/compose/gettingstarted/
+2. https://www.youtube.com/watch?v=LQjaJINkQXY
+3. https://www.youtube.com/watch?v=WmcdMiyqfZs
+
+
+Container volumes for persistent data
+1. https://docs.docker.com/storage/volumes/
+
+Docker workflow
+1. https://www.youtube.com/watch?v=i_aMIbdbw9s
+
+Docker volumes:
+1. https://docs.docker.com/storage/
+2. https://www.youtube.com/watch?v=p2PH_YPCsis
+
+Docker run and entrypoints
+1. https://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/
+2. https://www.youtube.com/watch?v=U1P7bqVM7xM
+3. https://www.youtube.com/watch?v=1d-LRIZRf5s
+
+docker images
+1. https://www.youtube.com/watch?v=QBOcKdh-fwQ
+
+Docker pruning
+1. https://takacsmark.com/docker-prune/
+
+Docker caching
+1. https://www.youtube.com/watch?v=oZ9nyCWERYc
+
+Zajimave:
+1. https://www.youtube.com/watch?v=JofsaZ3H1qM
+2. 
+
